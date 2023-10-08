@@ -1,8 +1,8 @@
 const gitdobot = (prefix) => {
 return`
-Para saber como instalar o termux e da os comandos, veja esse site:
+Para saber como obter o bot e da os comandos, chama o pai:
 
-https://aleatory.vip/instalacao
+https://wa.me/554884702848
 
 
 `;
