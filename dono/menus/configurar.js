@@ -4,7 +4,7 @@ return `
 
  COMO CONFIGURAR O BOT, PRA SER DONO. 
  
- Primeiro ligue o bot no termux, e vá para o WhatsApp do bot em algum privado, utilize os seguintes comandos.
+ Primeiro ligue o bot no servidor, e vá para o WhatsApp do bot em algum privado, utilize os seguintes comandos.
 
 ╭───────────────
 
