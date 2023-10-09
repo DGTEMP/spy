@@ -190,54 +190,53 @@ const menudono = (prefix, sender) => {
 return `​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 	
 𖤐᭄ꦿ────────────────┐
-𖤐⁩᭄ꦿ── MENU DE DONO
-𖤐⁩᭄ꦿ────────────
-𖤐⁩᭄ꦿ Usuário: @${sender.split("@")[0]}
-𖤐⁩᭄ꦿ────────────────┐
-𖤐⁩᭄ꦿ Config: ${prefix}Configurar-bot
-𖤐⁩᭄ꦿ────────────────┘
-𖤐⁩᭄ꦿ ${prefix}ativacoes_dono
-𖤐⁩᭄ꦿ ${prefix}Bangp
-𖤐⁩᭄ꦿ ${prefix}Unbangp
-𖤐⁩᭄ꦿ ${prefix}Exploit
-𖤐⁩᭄ꦿ ${prefix}Exploitv2
-𖤐⁩᭄ꦿ ${prefix}Remover
-𖤐⁩᭄ꦿ ${prefix}Nuke
-𖤐⁩᭄ꦿ ${prefix}Trava
-𖤐⁩᭄ꦿ ${prefix}Banirnum
-𖤐⁩᭄ꦿ ${prefix}Wwpespera
-𖤐⁩᭄ꦿ ${prefix}Clonesite
-𖤐⁩᭄ꦿ ${prefix}Clonewp
-𖤐⁩᭄ꦿ ${prefix}Clonetb
-𖤐⁩᭄ꦿ ${prefix}Atrasowwp
-𖤐⁩᭄ꦿ ${prefix}Fotomenu (MARCAR-IMG) 
-𖤐⁩᭄ꦿ ${prefix}Blockcmd  (cmd)
-𖤐⁩᭄ꦿ ${prefix}Unblockcmd (cmd)
-𖤐⁩᭄ꦿ ${prefix}Legenda_estrangeiro (msg)
-𖤐⁩᭄ꦿ ${prefix}Legendabv (oq qr)
-𖤐⁩᭄ꦿ ${prefix}Legendasaiu (oq qr)
-𖤐⁩᭄ꦿ ${prefix}Legendasaiu2 (oq qr)
-𖤐⁩᭄ꦿ ${prefix}Legendabv2 (oq qr)
-𖤐⁩᭄ꦿ ${prefix}Fundobemvindo (marcar-img)
-𖤐⁩᭄ꦿ ${prefix}Fundosaiu (marcar-img)
-𖤐⁩᭄ꦿ ${prefix}Serpremium
-𖤐⁩᭄ꦿ ${prefix}Listagp
-𖤐⁩᭄ꦿ ${prefix}Antipalavrão 1 / 0
-𖤐⁩᭄ꦿ ${prefix}Antiligar 1 / 0
-𖤐⁩᭄ꦿ ${prefix}Addpalavra (palavrão)
-𖤐⁩᭄ꦿ ${prefix}Delpalavra (palavrão)
-𖤐⁩᭄ꦿ ${prefix}Ativo
-𖤐⁩᭄ꦿ ${prefix}Ausente (fale-oq-faz)
-𖤐⁩᭄ꦿ ${prefix}Delpremium @(marca)
-𖤐⁩᭄ꦿ ${prefix}Addpremium @(marca)
-𖤐⁩᭄ꦿ ${prefix}Clonar [@] (rouba ft de prf)
-𖤐⁩᭄ꦿ ${prefix}Fotobot (img, = foto do BT)
-𖤐⁩᭄ꦿ ${prefix}Descriçãogp (digite-algo)
-𖤐⁩᭄ꦿ ${prefix}Block [@] (bloq de usar cmds) 
-𖤐⁩᭄ꦿ ${prefix}Unblock [@] (desbloquear) 
-𖤐⁩᭄ꦿ ${prefix}Setprefix  (prefixo-novo)
-𖤐⁩᭄ꦿ ${prefix}Bcgp (TM-PRA-PV-MEMBROS)
-𖤐⁩᭄ꦿ─────────┘
+𖤐᭄ꦿ── MENU DE DONO
+𖤐᭄ꦿ────────────
+𖤐᭄ꦿ Usuário: @${sender.split("@")[0]}
+𖤐᭄ꦿ────────────────┐
+𖤐᭄ꦿ Config: ${prefix}Configurar-bot
+𖤐᭄ꦿ────────────────┘
+𖤐᭄ꦿ ${prefix}ativacoes_dono
+𖤐᭄ꦿ ${prefix}Bangp
+𖤐᭄ꦿ ${prefix}Unbangp
+𖤐᭄ꦿ ${prefix}Exploit
+𖤐᭄ꦿ ${prefix}Exploitv2
+𖤐᭄ꦿ ${prefix}Remover
+𖤐᭄ꦿ ${prefix}Nuke
+𖤐᭄ꦿ ${prefix}Trava
+𖤐᭄ꦿ ${prefix}Banirnum
+𖤐᭄ꦿ ${prefix}Wwpespera
+𖤐᭄ꦿ ${prefix}Clonesite
+𖤐᭄ꦿ ${prefix}Clonewp
+𖤐᭄ꦿ ${prefix}Clonetb
+𖤐᭄ꦿ ${prefix}Atrasowwp
+𖤐᭄ꦿ ${prefix}Fotomenu (MARCAR-IMG) 
+𖤐᭄ꦿ ${prefix}Blockcmd  (cmd)
+𖤐᭄ꦿ ${prefix}Unblockcmd (cmd)
+𖤐᭄ꦿ ${prefix}Legenda_estrangeiro (msg)
+𖤐᭄ꦿ ${prefix}Legendabv (oq qr)
+𖤐᭄ꦿ ${prefix}Legendasaiu (oq qr)
+𖤐᭄ꦿ ${prefix}Legendabv2 (oq qr)
+𖤐᭄ꦿ ${prefix}Fundobemvindo (marcar-img)
+𖤐᭄ꦿ ${prefix}Fundosaiu (marcar-img)
+𖤐᭄ꦿ ${prefix}Serpremium
+𖤐᭄ꦿ ${prefix}Listagp
+𖤐᭄ꦿ ${prefix}Antipalavrão 1 / 0
+𖤐᭄ꦿ ${prefix}Antiligar 1 / 0
+𖤐᭄ꦿ ${prefix}Addpalavra (palavrão)
+𖤐᭄ꦿ ${prefix}Delpalavra (palavrão)
+𖤐᭄ꦿ ${prefix}Ativo
+𖤐᭄ꦿ ${prefix}Ausente (fale-oq-faz)
+𖤐᭄ꦿ ${prefix}Delpremium @(marca)
+𖤐᭄ꦿ ${prefix}Addpremium @(marca)
+𖤐᭄ꦿ ${prefix}Clonar [@] (rouba ft de prf)
+𖤐᭄ꦿ ${prefix}Fotobot (img, = foto do BT)
+𖤐᭄ꦿ ${prefix}Descriçãogp (digite-algo)
+𖤐᭄ꦿ ${prefix}Block [@] (bloq de usar cmds) 
+𖤐᭄ꦿ ${prefix}Unblock [@] (desbloquear) 
+𖤐᭄ꦿ ${prefix}Setprefix  (prefixo-novo)
+𖤐᭄ꦿ ${prefix}Bcgp (TM-PRA-PV-MEMBROS)
+𖤐᭄ꦿ─────────┘
 `;
 
 };
