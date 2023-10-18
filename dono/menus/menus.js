@@ -4,19 +4,20 @@ const menu = (prefix, NomeDoBot, sender) => {
 //${numerodn} nem ${NomeDoBot} nem ${prefix} só se quiser apagar completo, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa.  
   
 return `​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-╭────────𖡜ꦽ̸ོ˚￫─────┐
-𒂷𒇲 丂卩ሃ  HACKER 𒌜
-╞─────────────────┘
+𒂷𒇲─────𖡜ꦽ̸ོ˚￫─────𒂷𒇲
+𒂷𒇲  丂卩ሃ H A C K E R
+𒂷𒇲─────────────────────┘
 𒂷𒇲 Usuário: @${sender.split("@")[0]}
-├───────────────────┐
+𒂷𒇲────────────𒂷𒇲
 𒂷𒇲 MENU DE COMANDOS 
-├───────────────────
 𒂷𒇲+554884702848𒂷𒇲
-╰──────────────┐
-╭──────────────┴─┐
-𒂷𒇲 COMANDOS/BÁSICOS
+𒂷𒇲──────────┐
+╭─────────────┴─┐
+𒂷𒇲COMANDOS/BÁSICOS𒂷𒇲
 ├────────────────
 │々 ${prefix}esporte_noticias
+│々 ${prefix}alteradores
+│々 ${prefix}efeitos
 │々 ${prefix}celular ( Ex: Galaxy a9 )
 │々 ${prefix}Gtts (LINGUAGEM + TEXTO)
 │々 ${prefix}Tagme 
@@ -34,7 +35,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │々 ${prefix}tomp3 ( VIDEO > PRA AUDIO)
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 PESQUISAS/BAIXAR
+𒂷𒇲PESQUISAS/BAIXAR𒂷𒇲
 ├────────────────
 │๛ ${prefix}Play (NOME) 
 │๛ ${prefix}Playmp4 (NOME)
@@ -52,7 +53,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │๛ ${prefix}grupos (Exemplo: Amizade)
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 JOGOS
+𒂷𒇲    JOGOS    𒂷𒇲
 ├────────────────
 │⿻ꦿꦂ  ${prefix}Iniciar_forca
 │⿻ꦿꦂ  ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
@@ -60,7 +61,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │⿻ꦿꦂ  ${prefix}Cassino
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 FIGURINHAS
+𒂷𒇲 FIGURINHAS 𒂷𒇲
 ├────────────────
 │ౠ ${prefix}Attp (TEXTO)
 │ౠ ${prefix}Attp2 (TEXTO)
@@ -80,7 +81,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │ౠ ${prefix}figemoji
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 INFORMAÇÕES 
+𒂷𒇲 INFORMAÇÕES 𒂷𒇲
 ├───────────────
 │𒆕 ${prefix}Ping
 │𒆕 ${prefix}Atividade
@@ -89,7 +90,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │𒆕 ${prefix}moedas
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 DIVERSOS MENUS
+𒂷𒇲DIVERSOS MENUS𒂷𒇲
 ├───────────────
 │ꦽ̸ོ˚￫ ${prefix}Menudono
 │ꦽ̸ོ˚￫ ${prefix}Menuadm
@@ -100,15 +101,12 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │ꦽ̸ོ˚￫ ${prefix}menugold
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 COMANDOS DE MEMBRO
+𒂷𒇲COMANDOS MEMBRO𒂷𒇲
 ├───────────────
-│⿻ꦿꦂ ${prefix}Infobot
 │⿻ꦿꦂ ${prefix}Idiomas 
 │⿻ꦿꦂ ${prefix}Bug (QUESTIONE) 
 │⿻ꦿꦂ ${prefix}Sugestao (DICA) 
 │⿻ꦿꦂ ${prefix}Avalie (O-QUAO-BOM) 
-
-
 ╰──────────────┘
 
 `;
@@ -259,7 +257,7 @@ const menulogos = (prefix, sender) => {
  ནཹꦿ ───────────────┴─┐ ནཹꦿ 
  ནཹꦿ  Logos De 1 Texto  ནཹꦿ 
  ནཹꦿ ───────────        ནཹꦿ 
- ནཹꦿ ▹ ${prefix}logos1 (txt)    ནཹꦿ
+ ནཹꦿ ▹ ${prefix}logos1 (txt)   ནཹꦿ
  ནཹꦿ   By. Spy          ནཹꦿ 
  ནཹꦿ ─────────────────┘ ནཹꦿ 
 `;
