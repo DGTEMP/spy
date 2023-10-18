@@ -48,16 +48,16 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │๛ ${prefix}Twitter (LINK) 
 │๛ ${prefix}Imgpralink (MARCAR)
 │๛ ${prefix}Videopralink (MARCAR-V)
-│๛ ${prefix}Amazon (EXEMPLO: Celular Asus Rog)
+│๛ ${prefix}Amazon (EXEMPLO: Celular S20)
 │๛ ${prefix}grupos (Exemplo: Amizade)
 ╰──────────────┐
 ╭──────────────┴─┐
 𒂷𒇲 JOGOS
 ├────────────────
-│✾▹ ${prefix}Iniciar_forca
-│✾▹ ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
-│✾▹ ${prefix}Jogodavelha (@MARCAR) 
-│✾▹ ${prefix}Cassino
+│⿻ꦿꦂ  ${prefix}Iniciar_forca
+│⿻ꦿꦂ  ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
+│⿻ꦿꦂ  ${prefix}Jogodavelha (@MARCAR) 
+│⿻ꦿꦂ  ${prefix}Cassino
 ╰──────────────┐
 ╭──────────────┴─┐
 𒂷𒇲 FIGURINHAS
