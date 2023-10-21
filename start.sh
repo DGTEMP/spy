@@ -2,7 +2,7 @@
 GREEN='\033[0;32m'
 while : 
 do
-echo -e "${GREEN} Spy - Auto reconexão ativada para prevenção de quedas.."
+echo -e "${GREEN} Spy domina... - Auto reconexão ativada para prevenção de quedas.."
 
 if [ "$1" = "sim" ]; then
 node iniciar.js sim
