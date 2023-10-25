@@ -4,39 +4,39 @@ const menu = (prefix, NomeDoBot, sender) => {
 //${numerodn} nem ${NomeDoBot} nem ${prefix} só se quiser apagar completo, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa.  
   
 return `​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
-𒂷𒇲─────𖡜ꦽ̸ོ˚￫─────𒂷𒇲
+𒂷𒇲────────𖡜ꦽ̸ོ˚￫───────𒂷𒇲
 𒂷𒇲  丂卩ሃ H A C K E R
 𒂷𒇲─────────────────────┘
 𒂷𒇲 Usuário: @${sender.split("@")[0]}
-𒂷𒇲────────────𒂷𒇲
-𒂷𒇲 MENU DE COMANDOS 
-𒂷𒇲+554884702848𒂷𒇲
-𒂷𒇲──────────┐
-╭─────────────┴─┐
-𒂷𒇲COMANDOS/BÁSICOS𒂷𒇲
-├────────────────
-│々 ${prefix}esporte_noticias
-│々 ${prefix}alteradores
-│々 ${prefix}efeitos
-│々 ${prefix}celular ( Ex: Galaxy a9 )
-│々 ${prefix}Gtts (LINGUAGEM + TEXTO)
-│々 ${prefix}Tagme 
-│々 ${prefix}Emoji 😏/whatsapp
-│々 ${prefix}Emojimix 😉+🙂
-│々 ${prefix}Tabela (LETRAS) 
-│々 ${prefix}Conselhobiblico
-│々 ${prefix}Simi (FALE-ALGO)  
-│々 ${prefix}Perfil
-│々 ${prefix}Calcular 1 + 1
-│々 ${prefix}Fazernick (NICK)
-│々 ${prefix}Bot
-│々 ${prefix}signo ( EX: virgem)
-│々 ${prefix}metadinha
-│々 ${prefix}tomp3 ( VIDEO > PRA AUDIO)
+𒂷𒇲────────────────────𒂷𒇲
+𒂷𒇲       COMANDOS 
+𒂷𒇲    +554884702848   𒂷𒇲
+𒂷𒇲───┐
+╭───────┴─┐
+𒂷𒇲  COMANDOS/BÁSICOS  𒂷𒇲
+├───────────────────────
+│ꦽ̸ོ˚￫ ${prefix}Bot
+│ꦽ̸ོ˚￫ ${prefix}Tomp3 ( VIDEO > PRA AUDIO)
+│ꦽ̸ོ˚￫ ${prefix}Esporte_noticias
+│ꦽ̸ོ˚￫ ${prefix}Alteradores
+│ꦽ̸ོ˚￫ ${prefix}Efeitos
+│ꦽ̸ོ˚￫ ${prefix}Simi (FALE-ALGO)
+│ꦽ̸ོ˚￫ ${prefix}Celular ( Ex: Galaxy a9 )
+│ꦽ̸ོ˚￫ ${prefix}Gtts (LINGUAGEM + TEXTO)
+│ꦽ̸ོ˚￫ ${prefix}Tagme
+│ꦽ̸ོ˚￫ ${prefix}Emoji 😏/whatsapp
+│ꦽ̸ོ˚￫ ${prefix}Emojimix 😉+🙂
+│ꦽ̸ོ˚￫ ${prefix}Tabela (LETRAS)
+│ꦽ̸ོ˚￫ ${prefix}Perfil
+│ꦽ̸ོ˚￫ ${prefix}Calcular 1 + 1
+│ꦽ̸ོ˚￫ ${prefix}Fazernick (NICK)
+│ꦽ̸ོ˚￫ ${prefix}Signo ( EX: virgem)
+│ꦽ̸ོ˚￫ ${prefix}Metadinha
+│ꦽ̸ོ˚￫ ${prefix}Conselhobiblico
 ╰──────────────┐
 ╭──────────────┴─┐
 𒂷𒇲PESQUISAS/BAIXAR𒂷𒇲
-├────────────────
+├───────────────────
 │๛ ${prefix}Play (NOME) 
 │๛ ${prefix}Playmp4 (NOME)
 │๛ ${prefix}playstore (NOME)
@@ -50,19 +50,19 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │๛ ${prefix}Imgpralink (MARCAR)
 │๛ ${prefix}Videopralink (MARCAR-V)
 │๛ ${prefix}Amazon (EXEMPLO: Celular S20)
-│๛ ${prefix}grupos (Exemplo: Amizade)
+│๛ ${prefix}Grupos (Exemplo: Amizade)
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲    JOGOS    𒂷𒇲
-├────────────────
+𒂷𒇲     JOGOS     𒂷𒇲
+├──────────────────
 │⿻ꦿꦂ  ${prefix}Iniciar_forca
 │⿻ꦿꦂ  ${prefix}Ppt (PEDRA/PAPEL/TESOURA) 
 │⿻ꦿꦂ  ${prefix}Jogodavelha (@MARCAR) 
 │⿻ꦿꦂ  ${prefix}Cassino
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 FIGURINHAS 𒂷𒇲
-├────────────────
+𒂷𒇲   FIGURINHAS  𒂷𒇲
+├──────────────────
 │ౠ ${prefix}Attp (TEXTO)
 │ౠ ${prefix}Attp2 (TEXTO)
 │ౠ ${prefix}Fsticker (MARCAR-FOTO)
@@ -70,44 +70,44 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │ౠ ${prefix}Toimg (MARCAR-FIGU)
 │ౠ ${prefix}Togif (MARCAR-FIGU)
 │ౠ ${prefix}Roubar (TEXT/TEXT)
-│ౠ ${prefix}fig
-│ౠ ${prefix}figdesenho
-│ౠ ${prefix}figengracada
-│ౠ ${prefix}figraiva
-│ౠ ${prefix}figcoreana
-│ౠ ${prefix}figanime
-│ౠ ${prefix}figmeme
-│ౠ ${prefix}figroblox
-│ౠ ${prefix}figemoji
+│ౠ ${prefix}Fig
+│ౠ ${prefix}Figdesenho
+│ౠ ${prefix}Figengracada
+│ౠ ${prefix}Figraiva
+│ౠ ${prefix}Figcoreana
+│ౠ ${prefix}Figanime
+│ౠ ${prefix}Figmeme
+│ౠ ${prefix}Figroblox
+│ౠ ${prefix}Figemoji
 ╰──────────────┐
 ╭──────────────┴─┐
-𒂷𒇲 INFORMAÇÕES 𒂷𒇲
-├───────────────
+𒂷𒇲  INFORMAÇÕES  𒂷𒇲
+├──────────────────
 │𒆕 ${prefix}Ping
 │𒆕 ${prefix}Atividade
 │𒆕 ${prefix}Rankativo
 │𒆕 ${prefix}Checkativo (@MARCAR)
-│𒆕 ${prefix}moedas
-╰──────────────┐
-╭──────────────┴─┐
-𒂷𒇲DIVERSOS MENUS𒂷𒇲
-├───────────────
+│𒆕 ${prefix}Moedas (cotação)
+╰─────────────┐
+╭─────────────┴─┐
+𒂷𒇲 DIVERSOS MENUS 𒂷𒇲
+├───────────────────
 │ꦽ̸ོ˚￫ ${prefix}Menudono
 │ꦽ̸ོ˚￫ ${prefix}Menuadm
 │ꦽ̸ོ˚￫ ${prefix}Menupremium
 │ꦽ̸ོ˚￫ ${prefix}Efeitosimg
 │ꦽ̸ོ˚￫ ${prefix}Logos
 │ꦽ̸ོ˚￫ ${prefix}Brincadeiras
-│ꦽ̸ོ˚￫ ${prefix}menugold
+│ꦽ̸ོ˚￫ ${prefix}Menugold
 ╰──────────────┐
 ╭──────────────┴─┐
 𒂷𒇲COMANDOS MEMBRO𒂷𒇲
-├───────────────
+├──────────────────
 │⿻ꦿꦂ ${prefix}Idiomas 
 │⿻ꦿꦂ ${prefix}Bug (QUESTIONE) 
 │⿻ꦿꦂ ${prefix}Sugestao (DICA) 
 │⿻ꦿꦂ ${prefix}Avalie (O-QUAO-BOM) 
-╰──────────────┘
+╰────────────────┘
 
 `;
 };
@@ -126,12 +126,12 @@ const adms = (prefix, sender) => {
 𖤐᭄ꦿ───────────────────
 𖤐᭄ꦿ Usuário: @${sender.split("@")[0]}
 𖤐᭄ꦿ──────────────────┘
-𖤐᭄ꦿ ${prefix}ativacoes
-𖤐᭄ꦿ ${prefix}so_adm
-𖤐᭄ꦿ ${prefix}listanegra (NUMERO)
-𖤐᭄ꦿ ${prefix}tirardalista (NUMERO)
-𖤐᭄ꦿ ${prefix}listanegraG (NÚMERO)
-𖤐᭄ꦿ ${prefix}tirardalistaG (NÚMERO)
+𖤐᭄ꦿ ${prefix}Ativacoes
+𖤐᭄ꦿ ${prefix}So_adm
+𖤐᭄ꦿ ${prefix}Listanegra (NUMERO)
+𖤐᭄ꦿ ${prefix}Tirardalista (NUMERO)
+𖤐᭄ꦿ ${prefix}ListanegraG (NÚMERO)
+𖤐᭄ꦿ ${prefix}TirardalistaG (NÚMERO)
 𖤐᭄ꦿ ${prefix}Kick [@] (pra-remover) 
 𖤐᭄ꦿ ${prefix}Ban (responder-mensagem)
 𖤐᭄ꦿ ${prefix}Promover [@] (Ser-ADM)
@@ -155,10 +155,10 @@ const adms = (prefix, sender) => {
 𖤐᭄ꦿ──────────────┴─┐
 𖤐᭄ꦿ INFO - DONO - ADM
 𖤐᭄ꦿ───────────────
-𖤐᭄ꦿ▹ ${prefix}infolimitarcomando
-𖤐᭄ꦿ▹ ${prefix}infoAluguel
-𖤐᭄ꦿ▹ ${prefix}infopremium
-𖤐᭄ꦿ▹ ${prefix}infoforca
+𖤐᭄ꦿ▹ ${prefix}Infolimitarcomando
+𖤐᭄ꦿ▹ ${prefix}InfoAluguel
+𖤐᭄ꦿ▹ ${prefix}Infopremium
+𖤐᭄ꦿ▹ ${prefix}Infoforca
 𖤐᭄ꦿ▹ ${prefix}Infoduelo
 𖤐᭄ꦿ▹ ${prefix}Infotransmitir
 𖤐᭄ꦿ▹ ${prefix}InfoMultiPrefixo
@@ -170,7 +170,7 @@ const adms = (prefix, sender) => {
 𖤐᭄ꦿ▹ ${prefix}InfoBanghost
 𖤐᭄ꦿ▹ ${prefix}Infosorteio 
 𖤐᭄ꦿ▹ ${prefix}InfoAnotação
-𖤐᭄ꦿ▹ ${prefix}infogold
+𖤐᭄ꦿ▹ ${prefix}Infogold
 𖤐᭄ꦿ▹ ${prefix}Configurar-bot
 𖤐᭄ꦿ─────────────┘
 
@@ -189,12 +189,12 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 	
 𖤐᭄ꦿ────────────────┐
 𖤐᭄ꦿ── MENU DE DONO
-𖤐᭄ꦿ────────────
+𖤐᭄ꦿ────────────────
 𖤐᭄ꦿ Usuário: @${sender.split("@")[0]}
 𖤐᭄ꦿ────────────────┐
 𖤐᭄ꦿ Config: ${prefix}Configurar-bot
-𖤐᭄ꦿ────────────────┘
-𖤐᭄ꦿ ${prefix}ativacoes_dono
+𖤐᭄ꦿ────────────────
+𖤐᭄ꦿ ${prefix}Ativacoes_dono
 𖤐᭄ꦿ ${prefix}Bangp
 𖤐᭄ꦿ ${prefix}Unbangp
 𖤐᭄ꦿ ${prefix}Exploit
@@ -234,7 +234,7 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 𖤐᭄ꦿ ${prefix}Unblock [@] (desbloquear) 
 𖤐᭄ꦿ ${prefix}Setprefix  (prefixo-novo)
 𖤐᭄ꦿ ${prefix}Bcgp (TM-PRA-PV-MEMBROS)
-𖤐᭄ꦿ─────────┘
+𖤐᭄ꦿ────────────────┘
 `;
 
 };
@@ -272,8 +272,8 @@ const alteradores = (prefix, sender) => {
 // NÃO APAGUE ESSE ${prefix}, não coloque nada ${dentro assim} ISSO SÃO DEFINIÇÕES QUE ESTÁ PUXANDO DO settings.json, da pasta dono, só pode altera a base de tudo, menos as definições, só se quiser apagar a definição completa. 
 
 return`
-╭──────── ནཹꦿ───────────┐
-𒂷𒇲 Alteradores de audio/video 
+╭──────── ནཹꦿ─────────┐
+𒂷𒇲 Alteradores 
 ├──────── ནཹꦿ────────
 𒂷𒇲 Usuário: @${sender.split("@")[0]}
 ╰──────── ནཹꦿ──────┐
@@ -297,7 +297,7 @@ return`
 ۝  ${prefix}Bass2 (marca)
 ۝  ${prefix}Vozmenino (marca)
 ۝  ${prefix}Audioreverse (marca)
-╰─────── ནཹꦿ───────┘
+╰──────── ནཹꦿ───────┘
 `;
 };
 
@@ -316,7 +316,7 @@ return `
 │ Usuário: @${sender.split("@")[0]}
 ╰──────────────┐
 ╭──────────────┴─┐
-│✾▹ ADICIONE SEUS COMANDOS PREMIUM / VEJA O ${prefix}infopremium
+│✾▹ ADICIONE SEUS COMANDOS PREMIUM / 554884702848 ${prefix}infopremium
 ╰────────────────┘
 `;
 };
