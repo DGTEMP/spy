@@ -1,10 +1,15 @@
 const gitdobot = (prefix) => {
 return`
-Para saber como obter o bot e da os comandos, chama o pai:
+____________________________
+Para saber como obter o bot 
+
+e dar os comandos, 
+
+             chama o pai:
 
 https://wa.me/554884702848
 
-
+___________________________
 `;
 };
 
